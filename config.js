@@ -1,6 +1,5 @@
-// Fill these in from Supabase > Project Settings > API.
-// Only use the publishable / anon key. NEVER put a service_role or secret key here.
+// Public client configuration. Student data is protected by Supabase Auth and RLS.
 window.GSA_CONFIG = {
-  supabaseUrl: 'YOUR_SUPABASE_PROJECT_URL',
-  supabaseAnonKey: 'YOUR_SUPABASE_PUBLISHABLE_KEY'
+  supabaseUrl: 'https://bzglcgxflregleskeslr.supabase.co',
+  supabaseAnonKey: 'sb_publishable_aFphHnRRD5oAEMYRZp77Ig_js_7YWxo'
 };
